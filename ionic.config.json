@@ -1,6 +1,6 @@
 {
   "name": "innonic-1",
-  "app_id": "",
+  "app_id": "41ea01fb",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
