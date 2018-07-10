@@ -55,8 +55,7 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "phonegap-plugin-push": {
-        "SENDER_ID": "995276775605",
-        "FCM_VERSION": "11.6.2"
+        "SENDER_ID": "995276775605"
       }
     },
     "platforms": [
